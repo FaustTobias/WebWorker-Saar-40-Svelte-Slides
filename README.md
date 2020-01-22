@@ -43,4 +43,4 @@ MIT
 
 ## Autor
 
-[Tobias Faust](https://github.com/FaustTobias), [ambimax GmbH®](https://www.ambimax.de/)
+[Tobias Faust](https://github.com/FaustTobias), [ambimax® GmbH](https://www.ambimax.de/)
