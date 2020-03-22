@@ -24,7 +24,7 @@ Dependencies installieren
 $ yarn
 ```
 
-Server bauen starten
+Server bauen
 
 ```
 $ yarn build
